@@ -1,0 +1,24 @@
+dir()
+get
+get ()
+getwd()
+myfunction
+ls()
+myfunction <-- function(x) {#
+	y <-- rnorm(100)#
+	mean(y)#
+}
+ls()
+myfunction <-- function(x) {#
+	y <-- rnorm(100)#
+	mean(y)#
+}
+myfunction <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
+ls()
+myfunction
+myfunction()
+DIR()
+dir()
