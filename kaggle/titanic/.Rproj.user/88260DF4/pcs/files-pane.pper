@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/Tres semanas/kaggle/titanic",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
